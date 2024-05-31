@@ -1,4 +1,5 @@
 WELCOME TO MY PROFILE: 
+
 know more about me- 
 
 👋 Hi there! I'm Eric Ortiz-Baez, a passionate data analyst and software engineer with a strong background in business intelligence, logistics, and supply chain management. I hold a Google certification in Data Foundation and have accumulated extensive experience in software development, logistics tech, and creative direction.
