@@ -7,6 +7,7 @@ Data Analysis & Visualization
 Business Intelligence
 Logistics & Supply Chain Management
 Software Development
+
 💼 Experience:
 
 Data Analyst: Turning raw data into actionable insights.
